@@ -3,6 +3,7 @@
 
 Este repositório contém testes automatizados desenvolvidos em **Cypress** para validação do fluxo de compra no site [Sauce Demo](https://www.saucedemo.com/).
 
+![Build Status](https://github.com/Taynar4pS/Saucy-Cypress-Tests-QA/actions/workflows/node.js%20CI.yml/badge.svg)
 ![Cypress Tests](https://img.shields.io/badge/Cypress-Tests-green)
 ![Node.js](https://img.shields.io/badge/Node-16.x-brightgreen)
 
