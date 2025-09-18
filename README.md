@@ -34,7 +34,7 @@ support/ # Comandos customizados e configurações globais
  ```bash
    npx cypress run
 ```
-✅ Cenários implementados
+##✅ Cenários implementados
 
 -Login com usuário válido
 
@@ -46,7 +46,7 @@ support/ # Comandos customizados e configurações globais
 
 -Validação da finalização do pedido
 
-📌 Melhorias futuras
+##📌 Melhorias futuras
 
 -Criar testes para login inválido
 
