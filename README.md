@@ -36,24 +36,24 @@ support/ # Comandos customizados e configurações globais
 ```
 ## ✅ Cenários implementados
 
--Login com usuário válido
+- Login com usuário válido
 
--Adição de produto ao carrinho
+- Adição de produto ao carrinho
 
--Acesso ao carrinho
+- Acesso ao carrinho
 
--Checkout com preenchimento de dados
+- Checkout com preenchimento de dados
 
--Validação da finalização do pedido
+- Validação da finalização do pedido
 
 ## 📌 Melhorias futuras
 
--Criar testes para login inválido
+- Criar testes para login inválido
 
--Cobrir cenários de erro no checkout
+- Cobrir cenários de erro no checkout
 
--Parametrizar massa de dados com fixtures ou faker
+- Parametrizar massa de dados com fixtures ou faker
 
--Criar comandos customizados para login e fluxo de compra
+- Criar comandos customizados para login e fluxo de compra
 
 👩‍💻 Desenvolvido por Taynara Santos
