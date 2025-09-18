@@ -3,6 +3,10 @@
 
 Este repositório contém testes automatizados desenvolvidos em **Cypress** para validação do fluxo de compra no site [Sauce Demo](https://www.saucedemo.com/).
 
+![Build Status](https://github.com/Taynar4pS/Saucy-Cypress-Tests-QA/actions/workflows/main.yml/badge.svg)
+![Cypress Tests](https://img.shields.io/badge/Cypress-Tests-green)
+![Node.js](https://img.shields.io/badge/Node-16.x-brightgreen)
+
 ## 🚀 Tecnologias utilizadas
 - [Cypress](https://www.cypress.io/) - Framework de testes end-to-end
 - JavaScript (ES6)
@@ -20,8 +24,9 @@ support/ # Comandos customizados e configurações globais
 ## ▶️ Como rodar os testes
 1. Clonar o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/Taynar4pS/Saucy-Cypress-Tests-QA.git
+   cd Saucy-Cypress-Tests-QA
+
 2. Instalar as dependências:
    ```bash
    npm install
