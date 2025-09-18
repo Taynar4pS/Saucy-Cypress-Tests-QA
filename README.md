@@ -20,23 +20,15 @@ support/ # Comandos customizados e configurações globais
 ## ▶️ Como rodar os testes
 1. Clonar o repositório:
    ```bash
-   Instalar as dependências:
-
-npm install
-
-
-Executar os testes no modo interativo:
-
-npx cypress open
-
-
-Executar os testes em modo headless:
-
-npx cypress run
    git clone https://github.com/seu-usuario/seu-repositorio.git
    cd seu-repositorio
-
-✅ Cenários implementados:
+2. Instalar as dependências:
+npm install
+3. Executar os testes no modo interativo:
+   npx cypress open
+4. Executar os testes em modo headless:
+   npx cypress run
+✅ Cenários implementados
 
 Login com usuário válido
 
@@ -47,5 +39,15 @@ Acesso ao carrinho
 Checkout com preenchimento de dados
 
 Validação da finalização do pedido
+
+📌 Melhorias futuras
+
+Criar testes para login inválido
+
+Cobrir cenários de erro no checkout
+
+Parametrizar massa de dados com fixtures ou faker
+
+Criar comandos customizados para login e fluxo de compra
 
 👩‍💻 Desenvolvido por Taynara Santos
