@@ -23,16 +23,17 @@ support/ # Comandos customizados e configurações globais
    git clone https://github.com/seu-usuario/seu-repositorio.git
    cd seu-repositorio
 2. Instalar as dependências:
- ```bash
+   ```bash
    npm install
 
 3. Executar os testes no modo interativo:
-  ```bash
-    npx cypress open
+   ```bash
+   npx cypress open
+
 4. Executar os testes em modo headless:
  ```bash
-    npx cypress run
-
+   npx cypress run
+```
 ✅ Cenários implementados
 
 Login com usuário válido
